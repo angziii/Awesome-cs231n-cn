@@ -30,6 +30,11 @@
 
 -  神经网络游乐场是一个**前馈神经网络**的可视化演示网站，由TensorFlow创建
 
+### **Linear Classification Loss Visualization**
+    http://vision.stanford.edu/teaching/cs231n-demos/linear-classify/
+
+-  **线性分类器损失函数**的可视化网站，由Standford Vision Lab创建
+
 
 # 课程代码库
 
