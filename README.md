@@ -1,6 +1,6 @@
 # 欢迎来到Awesome-cs231n-cn!
 
-**你是否被课程机翻字幕的词不达意所困扰？你是否找不到作业？你是否还不知道课程配套的可视化网站在哪里？**
+**你是否被课程机翻字幕的词不达意所困扰？你是否找不到作业？你是否还不知道课程配套的可视化网站在哪里？你是否找到了资料却发现它年代久远，用的还是Python2？**
 
 如果是这样的话，你可就来对了！在我本人遭受以上困扰之后，我就萌生了打造课程资料的一站式解决方案的想法。
 
@@ -37,9 +37,20 @@
 
 
 # 课程代码库
+    http://cs231n.stanford.edu/assignments/
 
 # 课程基础知识
+    https://www.runoob.com/python3/python3-tutorial.html
+
+—  菜鸟教程：Python 3教程
+
+    https://www.runoob.com/numpy/numpy-tutorial.html
+
+—  菜鸟教程：Numpy 教程
 
 # 课程作业
+    https://github.com/hanlulu1998/CS231n
+
+-  hanlulu1998同学制作的**翻译作业合集**
 
 # 致谢
