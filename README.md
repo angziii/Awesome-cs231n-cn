@@ -6,7 +6,6 @@
 如果是这样的话，你可就来对了！在我本人遭受以上困扰之后，我就萌生了打造课程资料的一站式解决方案的想法。
 
 📚 我刚刚开始学习本课程，本文档会**持续更新**。  
-🚗 **gogogo 五一出游，先停更两天！**
 
 **Enjoy it! 🙌**
 
@@ -49,10 +48,10 @@
   Stanford Vision Lab 出品的 KNN 分类可视化演示。
 
 - 🎢 [Neural Network Playground](https://playground.tensorflow.org/)  
-  TensorFlow 出品，前馈神经网络直观演示。
+  TensorFlow 出品，前馈神经网络直观演示。与**特征工程**有关。
 
 - 📈 [Linear Classification Loss Visualization](http://vision.stanford.edu/teaching/cs231n-demos/linear-classify/)  
-  Stanford Vision Lab 出品，线性分类器损失函数可视化。
+  Stanford Vision Lab 出品，线性分类器、铰链损失函数可视化。
 
 ---
 
