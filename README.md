@@ -48,7 +48,7 @@
   Stanford Vision Lab 出品的 KNN 分类可视化演示。
 
 - 🎢 [Neural Network Playground](https://playground.tensorflow.org/)  
-  TensorFlow 出品，前馈神经网络直观演示。与**特征工程**有关。
+  TensorFlow 出品，前馈神经网络直观演示。与**特征工程**有关。可以发现**非线性激活函数**的妙用。
 
 - 📈 [Linear Classification Loss Visualization](http://vision.stanford.edu/teaching/cs231n-demos/linear-classify/)  
   Stanford Vision Lab 出品，线性分类器、铰链损失函数可视化。
