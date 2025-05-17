@@ -53,6 +53,9 @@
 - 📈 [Linear Classification Loss Visualization](http://vision.stanford.edu/teaching/cs231n-demos/linear-classify/)  
   Stanford Vision Lab 出品，线性分类器、铰链损失函数可视化。
 
+- 🚅 [ConvNetJS](https://cs.stanford.edu/people/karpathy/convnetjs/)  
+  由斯坦福大学的 Andrej Karpathy 开发的 JavaScript 深度学习库，支持图像分类（MNIST、CIFAR-10）、回归、自编码器、强化学习、图像重建和优化算法比较。
+
 ---
 
 ## 🧾 课程代码库
